@@ -12,6 +12,7 @@ import { BonusNumberValidator, WinningNumberValidator } from '../../../validator
 
 import { removeErrorMessage, showErrorMessage } from '../../utils/errorMessage.js';
 import { $ } from '../../utils/dom.js';
+
 import { COMPONENT_SELECTOR, CUSTOM_EVENT_TYPE } from '../../../constants/webApplication.js';
 
 const { LOTTO_RULE } = Lotto;
